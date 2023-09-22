@@ -1,12 +1,21 @@
 # tableutil2
 
 ## Changes
+
 * None so far.
 
+## Changelog
+
+### 1.0.1
+
+- Fixed README.md
+
 ## Installation
+
 `npm i @rbxts/tableutil2`
 
 ## Example Usage
+
 ```ts
 import Utilities from "@rbxts/tableutil2";
 
