@@ -2,9 +2,13 @@
 
 ## Changes
 
-* None so far.
+- None so far.
 
 ## Changelog
+
+### 1.0.3
+
+- Attempt at fixing source files.
 
 ### 1.0.2
 
